@@ -1,7 +1,7 @@
 ---
 name: explain-for-sorutrt
 description: sorutrt 向けに特化した説明を Agent にさせるための Skills
-version: 1.0.0
+version: 1.0.1
 author: sorutrt
 ---
 
@@ -15,7 +15,7 @@ author: sorutrt
 
 ### 1. 結論を先に示す
 
-説明は原則として、質問への直接的な答えから始める。長い前置きや背景説明を先に置かない。
+原則として、質問への直接的な答えから始める。長い前置きや背景説明を先に置かない。
 
 ### 2. 「なぜそうなるか」を説明する
 
